@@ -1,8 +1,8 @@
 Package: rpm
 Type: Package
 Title: Modeling of Revealed Preferences Matchings
-Version: 0.7-1
-Date: 2023-04-21
+Version: 0.7-3
+Date: 2024-04-17
 Authors@R: c(
         person("Mark S.", "Handcock", role=c("aut","cre"), email="handcock@stat.ucla.edu", comment=c(ORCID="0000-0002-9985-2785")),
         person("Ryan M. ", "Admiraal", role=c("ctb"), email="ryan.admiraal@vuw.ac.nz"),
@@ -15,15 +15,16 @@ License: GPL-3 + file LICENSE
 License_is_FOSS: yes
 License_restricts_use: no
 URL: https://github.com/handcock/rpm
+BugReports: https://github.com/handcock/rpm/issues
 LinkingTo: Rcpp, RcppArmadillo
 Depends: R (>= 4.0.0), abind, future, doRNG, methods
 Suggests: testthat
 Imports: Rcpp, nloptr, matrixStats, MASS, dplyr, ggplot2, coda,
         doFuture, foreach
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 NeedsCompilation: yes
-Packaged: 2023-04-21 15:27:07 UTC; handcock
+Packaged: 2024-04-18 02:41:16 UTC; handcock
 Author: Mark S. Handcock [aut, cre] (<https://orcid.org/0000-0002-9985-2785>),
   Ryan M.  Admiraal [ctb],
   Fiona C. Yeung [ctb],
@@ -32,4 +33,4 @@ Author: Mark S. Handcock [aut, cre] (<https://orcid.org/0000-0002-9985-2785>),
   Shuchi Goyal [ctb]
 Maintainer: Mark S. Handcock <handcock@stat.ucla.edu>
 Repository: CRAN
-Date/Publication: 2023-04-21 23:30:02 UTC
+Date/Publication: 2024-04-18 08:20:03 UTC

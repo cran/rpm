@@ -41,7 +41,7 @@ This code allows the self-matched option
 }
 \references{
 Goyal, Shuchi; Handcock, Mark S.; Jackson, Heide M.; Rendall, Michael S. and Yeung, Fiona C. (2023).
-\emph{A Practical Revealed Preference Model for Separating Preferences and Availability Effects in Marriage Formation}
+\emph{A Practical Revealed Preference Model for Separating Preferences and Availability Effects in Marriage Formation},
 \emph{Journal of the Royal Statistical Society}, A. \doi{10.1093/jrsssa/qnad031} 
 
 Dagsvik, John K. (2000) \emph{Aggregation in Matching Markets} \emph{International Economic Review}, Vol. 41, 27-57.

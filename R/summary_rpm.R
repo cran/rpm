@@ -48,7 +48,7 @@
 #' If that variable is NA then the women is
 #' assumed to be single. If men are listed in \code{Zdata} and are not partnered then they are assumed single.
 #' Weights are specified by three optional variables in \code{Xdata}.
-#' \itemize{
+#' \describe{
 #' \item{X_w}{: This is character string of the name of the weight variable for women. The sum of the weights should be the
 #' number of women in the population.}
 #' \item{Z_w}{: This is character string of the name of the weight variable for men. The sum of the weights should be the
@@ -64,10 +64,10 @@
 #' @references
 #'
 #' Goyal, Shuchi; Handcock, Mark S.; Jackson, Heide M.; Rendall, Michael S. and Yeung, Fiona C. (2023).
-#' \emph{A Practical Revealed Preference Model for Separating Preferences and Availability Effects in Marriage Formation}
+#' \emph{A Practical Revealed Preference Model for Separating Preferences and Availability Effects in Marriage Formation},
 #' \emph{Journal of the Royal Statistical Society}, A. \doi{10.1093/jrsssa/qnad031} 
 #'
-#' Dagsvik, John K. (2000) \emph{Aggregation in Matching Markets} \emph{International Economic Review}, Vol. 41, 27-57.
+#' Dagsvik, John K. (2000) \emph{Aggregation in Matching Markets} \emph{International Economic Review},, Vol. 41, 27-57.
 #' JSTOR: https://www.jstor.org/stable/2648822, \doi{10.1111/1468-2354.00054}
 #'
 #' Menzel, Konrad (2015).
